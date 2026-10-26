@@ -1,0 +1,8 @@
+.vscode
+.venv/
+.env
+consumer analysis diagram.drawio
+.$consumer analysis diagram.drawio.dtmp
+.$consumer analysis diagram.drawio.bkp
+connect_.session.sql
+logs/
